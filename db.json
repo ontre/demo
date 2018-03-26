@@ -3,16 +3,5 @@
     { "id": 1, "title": "Piazza 1", "posti": "12" },
     { "id": 2, "title": "Strada 2", "posti": "34" },
     { "id": 3, "title": "Viale 3", "posti": "56" }
-  ],
-  "cazzi": [
-    {"id": 1, "nome": "cazzo1"},
-    {"id": 2, "nome": "cazzo2"}
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "parks": [
-    { "id": 001, "title": "Piazza 1", "posti": "12" },
-    { "id": 002, "title": "Strada 2", "posti": "23" },
-    { "id": 003, "title": "Viale 3", "posti": "45" }
+    { "id": "001", "title": "Piazza 1", "posti": "12" },
+    { "id": "002", "title": "Strada 2", "posti": "23" },
+    { "id": "003", "title": "Viale 3", "posti": "45" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },

@@ -1,7 +1,9 @@
 {
+  "andreapark": {
   "parks": [
     { "id": 1, "title": "Piazza 1", "posti": "12" },
     { "id": 2, "title": "Strada 2", "posti": "34" },
     { "id": 3, "title": "Viale 3", "posti": "56" }
   ]
+  }
 }
